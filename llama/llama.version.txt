@@ -1,0 +1,17 @@
+# llama.cpp Version Information
+
+Repository URL: https://github.com/ggerganov/llama.cpp
+Clone Date: June 2025
+License: MIT
+
+This directory contains a modified version of llama.cpp that's been integrated 
+directly into the EasyGP Health Assistant project.
+
+The embedded code is based on llama.cpp and has been customized for local LLM inference
+with the TinyLlama 1.1B model for private healthcare conversations.
+
+To update this in the future:
+1. Note any custom modifications made to this codebase
+2. Download a fresh copy of llama.cpp
+3. Re-apply any custom modifications
+4. Replace this directory
